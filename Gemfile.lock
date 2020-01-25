@@ -1,0 +1,18 @@
+GIT
+  remote: git@github.com:dmitriy-sokolyanskiy/exam.git
+  revision: 1dedbf8531bd2c98ac22c8d65389cd78b7414fe4
+  specs:
+    exam (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  exam!
+
+BUNDLED WITH
+   2.1.2
