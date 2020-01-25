@@ -1,6 +1,6 @@
 GIT
   remote: git@github.com:dmitriy-sokolyanskiy/exam.git
-  revision: 1dedbf8531bd2c98ac22c8d65389cd78b7414fe4
+  revision: 345ca960f2c5eebbc2c9c3345c5ab1bf61167218
   specs:
     exam (0.1.0)
 
